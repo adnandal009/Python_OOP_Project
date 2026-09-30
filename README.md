@@ -86,11 +86,14 @@ This project uses Python's built-in functionality and does not require any exter
 
 ## 📂 Project Structure
 
-The project consists of a Python program and README documentation.
+The project consists of a Python program, output screenshot, and README documentation.
 
 │
+|
 ├── main.py
+|
 ├── output.png
+|
 └── README.md
 
 ## Output 

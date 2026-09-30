@@ -88,12 +88,11 @@ This project uses Python's built-in functionality and does not require any exter
 
 The project consists of a Python program, output screenshot, and README documentation.
 
+```text
+
 │
-|
 ├── main.py
-|
 ├── output.png
-|
 └── README.md
 
 ## Output 

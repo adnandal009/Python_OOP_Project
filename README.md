@@ -84,6 +84,7 @@ This project uses Python's built-in functionality and does not require any exter
 ---
 
 
+
 ## 📂 Project Structure
 
 The project consists of a Python program, output screenshot, and README documentation.
@@ -95,6 +96,10 @@ The project consists of a Python program, output screenshot, and README document
 ├── output.png
 └── README.md
 
+```
 ## Output 
 
 ![Program Output](output.png)
+
+---
+
